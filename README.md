@@ -56,6 +56,7 @@ Simular os movimentos das peças **Torre**, **Bispo**, **Rainha** e **Cavalo**, 
 ## Output esperado:
 
 ![Output no terminal](xadrez-aventur.png)
+
 ## 📚 Aprendizado
 
 Este projeto visa exercitar o uso de estruturas de repetição simples e aninhadas em C.
